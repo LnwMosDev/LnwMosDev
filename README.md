@@ -36,7 +36,6 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [natdanai1170.com@gmail.com](mailto:natdanai1170.com@gmail.com)
 * 🧠  I'm learning Web Development and Programming
-* ⚡  I work at CIT Company (Virtual Office Project for Students from my University) - (Now Project Closed)
 # Skills & Tools<img src="assets/images/Rocket.png" width="40">
 <!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
 
