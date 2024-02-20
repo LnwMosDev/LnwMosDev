@@ -90,12 +90,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 <!--<img align="center" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthitDev&langs_count=10&title_color=b2336b&&layout=compact&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321" />-->
 
 
-<a href="https://github.com/LnwMosDev/github-stats">
-<img src="https://github.com/LnwMosDev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/LnwMosDev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LnwMosDev&layout=compact&langs_count=10&theme=radical&hide_border=true)
-
 
 
 <nobr><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LnwMosDev&show_icons=true&theme=radical&hide_border=true"/>
