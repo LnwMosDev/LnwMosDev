@@ -2,7 +2,7 @@
 <!--![til](assets/images/dino.gif)-->
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E420&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+3+;I'm+Full+Stack+Developer " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E420&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+3+" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -19,7 +19,7 @@
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArthitDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
  </p>
 
-Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50"> My name is Natdanai Wongsa
+Hi ! My name is Natdanai Wongsa
 =====================================================================================================================================
 
 
@@ -122,8 +122,8 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 </table>
 
 
-# Education <img src="assets/images/Scroll.png" width="30">
-<img src="assets/images/School.png" width="25"> **Chiang Rai Rajabhat University**:
+# Education 
+**Chiang Rai Rajabhat University**:
   - **Faculty of Digital Technology : Bachelor of Science in information technology**
     - 2021 (Start)
     - 2024 (Present)
@@ -139,7 +139,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 <a href="https://www.linkedin.com/in/arthit-lungya-30a29626a" target="_blank"><img src="assets/images/linkedin.png" width="50" height="50" ></a>  
 <a href="https://www.twitter.com/ArthitDev" target="_blank" ><img src="assets/images/X.png" width="50" height="50" ></a></p> -->
 
-# Badges <img src="assets/images/Bar Chart.png" width="40">
+# Badges 
 
 <!--<img align="center" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthitDev&langs_count=10&title_color=b2336b&&layout=compact&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321" />-->
 
