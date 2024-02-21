@@ -37,30 +37,23 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [natdanai1170.com@gmail.com](mailto:natdanai1170.com@gmail.com)
 * 🧠  I'm learning Web Development and Programming
-# Skills & Tools
+# Skills & Tools (Basic)
 <!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />
-    s  <br>.Net
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
+      <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
@@ -109,15 +102,6 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
-      <br>Java
-          </td>
-           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Nodejs" />
-      <br>PHP
-      </td>
-
  </tr>
 </table>
 
