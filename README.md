@@ -16,7 +16,7 @@
    <a href=""> <img src="https://komarev.com/ghpvc/?username=LnwMosDev&style=for-the-badge&color=brightgreen"/></a>
    <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LnwMosDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
    <a href="">
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LnwMosDevDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LnwMosDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
  </p>
 
 Hi ! My name is Natdanai Wongsa
