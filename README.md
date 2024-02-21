@@ -13,7 +13,7 @@
   <a href="" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  </p>
  <p align="center">
-   <a href=""> <img src="https://komarev.com/ghpvc/?username=ArthitDev&style=for-the-badge&color=brightgreen"/></a>
+   <a href=""> <img src="https://komarev.com/ghpvc/?username=LnwMosDev&style=for-the-badge&color=brightgreen"/></a>
    <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ArthitDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
    <a href="">
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArthitDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
